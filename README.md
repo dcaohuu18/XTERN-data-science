@@ -1,6 +1,6 @@
 # XTERN-data-science
 
-This is my work in response to the assessment prompt for the Data Science role of XTERN 2019. Please see the getting-insights notebook first before looking at the charging-stratergy.
+This is my work in response to the assessment prompt for the Data Science role of XTERN 2019. Please see the getting-insights notebook first before looking at the charging-stratergy. There's also an extension where I identify where to set up the charging stations (See the charging-stations notebook)
 
 Here's the prompt: 
 
