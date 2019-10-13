@@ -2,6 +2,8 @@
 
 This is my work in response to the assessment prompt for the Data Science role of XTERN 2019. Please see the getting-insights notebook first before looking at the charging-stratergy. There's also an extension in which I identify where to set up the charging stations (See the charging-stations notebook)
 
+NOTE: All my graphs are static. However, if you want to have a better view, please visit this link of the nbviewer: https://nbviewer.jupyter.org/github/dcaohuu18/XTERN-data-science/tree/master/
+
 Here's the prompt: 
 
 ###### Situation
